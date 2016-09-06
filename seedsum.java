@@ -5,7 +5,7 @@ public static void main(String[] args)
 	Scanner sc=new Scanner(System.in);
 	int n,k,temp,sum,i;
 	n=sc.nextInt();
-	if(n>0);
+	if(n>0)
 	{
 	  for(i=10;i<n;i++)
 	  {
