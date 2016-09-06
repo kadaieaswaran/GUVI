@@ -21,8 +21,9 @@ public static void main(String[] args)
 	  	if(sum==n)
 	  		System.out.println(i+" is the seed of "+n);
 	  }
+	}
 	  else
 	    System.out.println("-1");
-	}
+	
 }
 }
